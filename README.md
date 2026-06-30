@@ -1,6 +1,6 @@
 # FI-ITBP: Federated Incremental Insider Threat Benchmark Protocol
 
-This repository provides the official implementation of **FI-ITBP**, a federated incremental evaluation benchmark for insider threat detection under concept drift.
+This repository provides the implementation of **FI-ITBP**, a federated incremental evaluation benchmark for insider threat detection under concept drift.
 
 ## Paper
 
